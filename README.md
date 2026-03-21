@@ -14,9 +14,9 @@
 
 <div align="center">
 
-| 🎓 CGPA | 🏆 JEE Mains | 🥇 Dept. Rank | ⚡ Inter-Hostel |
-|:---:|:---:|:---:|:---:|
-| **8.30 / 10** | **Top 1%ile** | **#7 / 92** | **2× 1st Place** |
+|    🎓 CGPA    | 🏆 JEE Mains  | 🥇 Dept. Rank | ⚡ Inter-Hostel  |
+| :-----------: | :-----------: | :-----------: | :--------------: |
+| **8.30 / 10** | **Top 1%ile** |  **#7 / 92**  | **2× 1st Place** |
 
 </div>
 
@@ -116,14 +116,15 @@ aditya = {
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Software Engineering Intern** · Bright Eureka *(Dec 2025 – Feb 2026)*
+**Software Engineering Intern** · Bright Eureka _(Dec 2025 – Feb 2026)_
+
 > Engineered modular frontend components & API integrations for an AI service delivery platform. Presented personal AI projects (MathsGPT & VisionGPT) to the engineering team, demonstrating agentic AI and VLM implementation.
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
@@ -140,6 +141,6 @@ aditya = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-*⚡ always learning · always building*
+_⚡ always learning · always building_
 
 </div>
